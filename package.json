@@ -1,5 +1,5 @@
 {
-  "name": "hw-01-cli-addition",
+  "name": "back_gpt_1",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/EduardMLT/node-hw-01-cli-addition.git"
+    "url": "git+https://github.com/EduardMLT/back_gpt_1.git"
   },
   "dependencies": {
     "comander": "^0.0.1-security",
@@ -17,9 +17,9 @@
     "nodemon": "^3.0.1"
   },
   "bugs": {
-    "url": "https://github.com/EduardMLT/node-hw-01-cli-addition/issues"
+    "url": "https://github.com/EduardMLT/back_gpt_1/issues"
   },
-  "homepage": "https://github.com/EduardMLT/node-hw-01-cli-addition#readme",
+  "homepage": "https://github.com/EduardMLT/back_gpt_1#readme",
   "keywords": [],
   "author": "",
   "license": "ISC"
