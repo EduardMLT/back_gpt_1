@@ -1,0 +1,26 @@
+{
+  "name": "hw-01-cli-addition",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "start:dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EduardMLT/node-hw-01-cli-addition.git"
+  },
+  "dependencies": {
+    "comander": "^0.0.1-security",
+    "commander": "^11.1.0",
+    "nodemon": "^3.0.1"
+  },
+  "bugs": {
+    "url": "https://github.com/EduardMLT/node-hw-01-cli-addition/issues"
+  },
+  "homepage": "https://github.com/EduardMLT/node-hw-01-cli-addition#readme",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
